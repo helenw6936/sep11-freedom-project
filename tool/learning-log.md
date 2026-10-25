@@ -10,7 +10,7 @@
 * Three.js
 * https://threejs.org/ 
 * Installation: https://threejs.org/manual/#installation (follow project structure then Option 1 development)
-    * [code](three.js.html) works --> https://jsfiddle.net/w43x5Lgh/  
+    * [code](three.js) works --> https://jsfiddle.net/w43x5Lgh/  
 
 * q5play
 * https://q5play.org/learn/ (web editor, no installation)
