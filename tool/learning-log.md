@@ -20,7 +20,7 @@
 * https://q5play.org/learn/ (web editor, no installation)
 * https://youtu.be/MXs1cOlidWs?si=ZTZu7wzuslFxttjf
 * next step: 
-* focus on q5play next week: create a small moving ball to test out physics
+* focus on q5play next week: create a small moving ball to test out physics when touching something
 
 ### X/X/XX:
 * Text
