@@ -10,7 +10,10 @@
 * Three.js
 * https://threejs.org/ 
 * Installation: https://threejs.org/manual/#installation (follow project structure then Option 1 development)
-    * [code](three.js) works --> https://jsfiddle.net/w43x5Lgh/  
+    * starter code example to work from: [code](three.js) works --> https://jsfiddle.net/w43x5Lgh/
+    * does adding a shape impact the camera angle?
+    * can I move the camera angle instead of the object?
+*  https://www.youtube.com/watch?v=uzkedMF-l4Q&list=PLbu98QxRH81KkLTN00OXhD8Y-pRVgTCnM 
 
 * q5play
 * https://q5play.org/learn/ (web editor, no installation)
