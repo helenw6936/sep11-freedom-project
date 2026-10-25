@@ -16,9 +16,9 @@
 *  https://www.youtube.com/watch?v=uzkedMF-l4Q&list=PLbu98QxRH81KkLTN00OXhD8Y-pRVgTCnM
 *  
 * 
-* 
 * q5play
 * https://q5play.org/learn/ (web editor, no installation)
+* https://youtu.be/MXs1cOlidWs?si=ZTZu7wzuslFxttjf 
 * focus on q5play next week: create a small moving ball to test out physics
 
 ### X/X/XX:
