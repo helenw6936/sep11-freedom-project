@@ -1,13 +1,20 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Three.js & q5play**
 
-## Project: **X**
+## Project: **Tennis game where balls play with players heads instead**
 
 ---
 
-### X/X/XX:
-* Text
+### 10/21/XX:
+* Three.js
+* https://threejs.org/ 
+* Installation: https://threejs.org/manual/#installation (follow project structure then Option 1 development)
+    * (three.js.html)[code] works --> https://jsfiddle.net/w43x5Lgh/  
+
+* q5play
+* https://q5play.org/learn/ (web editor, no installation)
+* focus on q5play next week: create a small moving ball to test out physics
 
 ### X/X/XX:
 * Text
