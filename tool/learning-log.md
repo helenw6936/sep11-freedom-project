@@ -13,6 +13,7 @@
     * starter code example to work from: [code](three.js) works --> https://jsfiddle.net/w43x5Lgh/
     * does adding a shape impact the camera angle?
     * can I move the camera angle instead of the object?
+    * can the angle move according to the mouse?
 *  https://www.youtube.com/watch?v=uzkedMF-l4Q&list=PLbu98QxRH81KkLTN00OXhD8Y-pRVgTCnM
 *  
 * 
