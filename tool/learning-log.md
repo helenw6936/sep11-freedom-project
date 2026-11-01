@@ -26,9 +26,10 @@
 * next step: 
 * focus on q5play next week: create a small moving ball to test out physics when touching something (for tennis)
 
-### X/X/XX:
-* Text
-
+### 10/29/26:
+* q5play -> phaser (for physics)
+* https://docs.phaser.io/phaser/getting-started/installation
+* 
 
 <!-- 
 * Links you used today (websites, videos, etc)
