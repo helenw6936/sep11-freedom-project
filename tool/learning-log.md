@@ -12,7 +12,7 @@
 * Installation: https://threejs.org/manual/#installation (follow project structure then Option 1 development)
     * [code](script.js) works --> https://jsfiddle.net/w43x5Lgh/  
 
-    * starter code example to work from: [code](three.js) works --> https://jsfiddle.net/w43x5Lgh/
+    * starter code example to work from: [code](In -s three.js/script.js) works --> https://jsfiddle.net/w43x5Lgh/
     * does adding a shape impact the camera angle?
     * can I move the camera angle instead of the object?
     * can the angle move according to the mouse?
