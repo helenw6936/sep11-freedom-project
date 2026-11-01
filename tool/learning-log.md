@@ -27,9 +27,26 @@
 * focus on q5play next week: create a small moving ball to test out physics when touching something (for tennis)
 
 ### 10/29/26:
-* q5play -> phaser (for physics)
-* https://docs.phaser.io/phaser/getting-started/installation
-* 
+* q5play -> phaser (game engine)
+* https://docs.phaser.io/phaser/getting-started/installation (installation)
+* installed three.js & phaser
+* https://youtu.be/jHTRu4iNTcA?si=WuFDRY9UNTOq28uq (beginning introduction to phaser)
+* https://youtube.com/playlist?list=PLNwtXgWIx3rg_fv93PMDFfXahzhXxGe5Z&si=ZAWVQ6xhR7GVNAe3
+    * finish the last 10 mins
+    * can it work on 3d design development?
+* phaser includes actions, animations, camera. (very important)
+* Phaser.Actions.AlignTo();
+    * items -> array of items
+    * position -> position to align items 
+    * offsetY -> vertical offset
+    * offsetX -> horizontal offset
+* Phaser.Actions.Angle();
+    * optional: step / index / direction 
+* Phaser.Actions.Call();
+    * callback -> in a array : sent to the game object itsself as the first argument
+* next week: how can i incorporate three.js into phaser
+    * finish last 10 min and start on the next video
+
 
 <!-- 
 * Links you used today (websites, videos, etc)
