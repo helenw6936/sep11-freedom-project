@@ -6,7 +6,7 @@
 
 ---
 
-### 10/21/XX:
+### 10/21/26:
 * Three.js
 * https://threejs.org/ 
 * Installation: https://threejs.org/manual/#installation (follow project structure then Option 1 development)
@@ -26,7 +26,7 @@
 * next step: 
 * focus on q5play next week: create a small moving ball to test out physics when touching something (for tennis)
 
-### 10/29/26:
+### 11/3/26:
 * q5play -> phaser (game engine)
 * https://docs.phaser.io/phaser/getting-started/installation (installation)
 * installed three.js & phaser
