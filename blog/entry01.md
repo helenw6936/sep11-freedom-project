@@ -1,7 +1,17 @@
 # Entry 1
-##### X/X/XX
+##### 11/9/26
 
-Text
+## Content
+The tool that I have decided to use for my SEP 11 freedom project is called phaser. I chose phaser because 
+
+## Sources
+
+
+## Engineering Deisgn Process
+
+
+## Skills
+
 
 [Next](entry02.md)
 
